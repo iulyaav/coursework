@@ -1,2 +1,2 @@
 # learning
-My course assignments and notes
+My course assignments and notes.
